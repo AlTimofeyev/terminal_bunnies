@@ -4,6 +4,9 @@
 # ------------------- Custom Files and Directories
 source ~/.config/zsh/zshFunctions/start_script_bunny.sh
 
+# Change the source location to wherever you decide to save the 
+# start_script_bunny.sh file.
+
 # **********************************************************************
 # ************************** STARTER SCRIPT ****************************
 # **********************************************************************
